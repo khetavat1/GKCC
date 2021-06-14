@@ -1,0 +1,1328 @@
+
+body
+{
+    margin: 0; 
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    position: relative;
+    overflow-x: hidden;
+}
+
+h1{
+      font-family: 'Times New Roman', Times, serif;
+      text-align: center;
+      font-size: 35px;
+      letter-spacing: 1px;
+      word-spacing: 2px;
+      color: turquoise;
+      
+}
+
+
+
+#vishal{
+    background-size: cover;
+    background-image: url(https://freshome.com/wp-content/uploads/2013/05/design-home-plan-home.jpg);
+    animation: slide 5s infinite;
+    height: 700px;
+    
+}
+
+@keyframes slide{
+
+    25%{
+        background-image: url(https://freshome.com/wp-content/uploads/2013/05/design-home-plan-home.jpg);
+    }
+    50%{
+        background-image: url(https://images7.alphacoders.com/365/365706.jpg);
+    }
+    100%{
+        background-image: url(https://wonderfulengineering.com/wp-content/uploads/2014/01/building-wallpaper-9.jpg);
+    }
+    
+}
+
+
+
+
+
+
+
+    
+/*#vishal{
+    background-size: cover;
+    background-image: url();
+    animation: slide 10s infinite;
+    padding: 0px;
+    height: 700px; 
+    
+}
+
+@keyframes slide{
+
+    25%{
+        background-image: url("C:\Users\Vishal Khetavat\Documents\GKCC\GK Images\home1.jfif");
+    }
+    50%{
+        background-image: url("C:\Users\Vishal Khetavat\Documents\GKCC\GK Images\home1.jfif");
+    }
+    100%{
+        background-image: url("C:\Users\Vishal Khetavat\Documents\GKCC\GK Images\home1.jfif");
+    }
+    
+} */
+
+
+.vishal1{
+    display: block; 
+    font-weight: 400;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 8px 0 0 0;
+    margin: 10px 0px;
+    height: 500px;
+    width: 150px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    list-style: none;
+    /*background-color: gold;*/
+    
+}
+.vishal1 li{
+    text-indent: 28px;
+    line-height: 40px;
+    box-sizing: border-box;
+    color: blue;
+}
+.vishal{
+    padding: 5px 0 0 0;
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3{
+    font-size: 30px;
+    font-weight: 700;
+    color: red;
+    margin: 5px;
+    padding: 14px 0px 15px 0;
+    letter-spacing: 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.vishal3{
+    font-size: 25px;
+    margin: 5px;
+    color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.vishal4{
+    font-size: 21px;
+    margin: 5px;
+    float: left;
+    text-align: justify;
+    word-spacing: 2px;
+    line-height: 25px;
+    
+}
+/*.vishal5{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 8px 0 0 0;
+    margin: 10px 0px;
+    color: green;
+    width: 20%
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    list-style: none;  */
+    
+}
+.vishal5{
+    float: left;
+   padding: 2px;
+
+}
+#vishal1{
+    position: relative;
+    width: 100%;
+    float: left;
+    display: flex;
+}
+.vishal7{
+    float: right;
+   width: 50%;
+   height: 400px;
+   /*animation: slide 5s infinite;
+   background-size: cover;*/
+}
+
+/*@keyframes slide{
+
+    50%{
+        background-image: url(C:\Users\Vishal Khetavat\Desktop\javascript\GK Images\Home.jfif);
+    }
+        
+    100%{
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmmLH6_aA2eJiwAodRyC97AWaL3l9Hxc8oIrnIKDZ4XuwwU6CG&usqp=CAU);
+    }
+   
+}*/
+
+.vishal6{
+    width: 50%;
+    float: left;
+    
+}
+
+.vishal8{
+     padding: 5px 5px 5px 5px;
+     box-sizing: border-box;
+     height: 400px;
+}
+.vishal9{
+    width: 100%;
+    height: 345px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 19px;
+}
+.vishal11{
+    width: 33.333333%;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+
+
+
+
+
+#v5{
+   width: 100%;
+   
+}
+.vishal15{
+    width: 100%;
+    height: 350px;
+    float: left;
+    background-size: cover;
+    
+}
+.vishal16{
+    float: left;
+    width: 94%;
+    margin: 2% 3% 3% 3%;
+    margin-top: 2%;
+    margin-left: 3%;
+    margin-bottom: 3%;
+    margin-right: 3%;
+
+}
+
+#v4{
+    width: 33.333333333%;
+    float: left;
+    line-height: 30px;
+}
+
+.vishal17{
+    font-size: 20px;
+    font-weight: 700;
+    color: red;
+    margin: 5px;
+    padding: 15px 0px 15px 0px;
+    letter-spacing: 2px;
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.vishal18{
+    font-size: 19px;
+    float: left;
+    margin: 5px;
+    padding: 5px 0px 3px 0px;
+    padding-right: 35px;
+    letter-spacing: 2px;
+    text-align: justify;
+    cursor: default;
+    line-height: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+  
+.vishal12{
+    width: 33.333333333%;
+    float: left;
+    margin-left: -20px;
+    margin-right: -20px;
+    line-height: 30px;
+    padding-right: 35px;
+}
+
+.hind42{
+    width: 33.333333333%;
+    float: left;
+}
+
+.v13{
+
+    font-size: 20px;
+    font-weight: 700;
+    color: red;
+    margin: 5px;
+    padding: 30px 0px 15px 0px;
+    letter-spacing: 2px;
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.vishal19{
+    font-size: 16px;
+    float: left;
+    margin: 5px 5px 5px 5px;
+    padding: 5px 0px 3px 0px;
+    letter-spacing: 2px;
+    text-align: justify;
+    cursor: default;
+    line-height: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.vishal20{
+    width: 33.333333333%;
+    float: left;
+}
+
+.vishal21{
+
+    font-size: 20px;
+    font-weight: 700;
+    color: red;
+    margin: 5px;
+    padding: 30px 0px 15px 0px;
+    letter-spacing: 2px;
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+
+
+
+
+
+
+
+/*h3{
+    font-size: 18px;
+    color: #000000;
+    margin: 0 0 1.5em;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+  }
+  ul{
+    font-size: 14px;
+  }
+  li{
+    margin-bottom: 1.5em;
+    color: #171717;
+    
+    padding: 0;
+    font-size: 14px;
+  }*/
+  
+
+
+
+
+
+
+
+
+ /*-------------------------------------------- this CSS Style is for GKProjects*-------------------------------------------*/
+
+
+#jai{
+    position: relative;
+    width: 100%;
+    float: left;
+}
+#jai1{
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+ #jai2{
+    background-size: cover;
+    background-image: url(https://www.thomasfarina.com/wp-content/uploads/2017/01/best-places-for-night-photography-in-New-York-City-09.jpg);
+    animation: ok 5s infinite;
+    height: 700px;
+    
+}
+
+@keyframes ok{
+
+    90%{
+        background-image: url(https://www.thomasfarina.com/wp-content/uploads/2017/01/best-places-for-night-photography-in-New-York-City-09.jpg);
+    }
+    20%{
+        background-image: url(https://www.wallpapers4u.org/wp-content/uploads/singapore_night_building_reflection_colorful_59559_1920x1080.jpg);
+    }
+    0%{
+        background-image: url(https://www.wallpapers4u.org/wp-content/uploads/singapore_night_building_reflection_colorful_59559_1920x1080.jpg);
+    }
+    
+}
+
+/* https://img.freepik.com/free-photo/modern-building-office-blue-sky-background_35761-198.jpg?size=626&ext=jpg */
+
+#jai4{
+    
+    margin-left: -15px;
+    margin-right: -15px;
+}
+#jai5{
+   
+
+    float: left;
+    width: 94%;
+    margin: 2% 3% 3% 3%;
+}
+#jai6{
+    font-size: 20px;
+    text-align: center;
+    background-color: transparent;
+    padding: 10px 5px 2px 5px;
+    padding-left: 10px;
+    padding-right: 5px;
+    margin-left: 2px;
+    margin-right: 75px;
+    color: blue;
+
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#jai7{
+    margin: 2%;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    margin-right: 2%;
+
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*------------------------------------on forward space is for GKServices code for only----------------------------------------*/
+
+
+
+.jai{
+    position: relative;
+    width: 100%;
+    float: left;
+}
+.jai1{
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.jai2{
+    background-size: cover;
+    background-image: url(https://freshome.com/wp-content/uploads/2013/05/design-home-plan-home.jpg);
+    animation: slide2 5s infinite;
+    height: 700px;
+    
+}
+
+@keyframes slide2{
+
+    25%{
+        
+        background-image: url(https://freshome.com/wp-content/uploads/2013/05/design-home-plan-home.jpg);
+    }
+    50%{
+        
+        background-image: url(https://static.concretenetwork.com/photo-gallery/images/1200x625Exact_0x75/concrete-homes_16/stone-concrete-home-fox-blocks_771.JPG);
+    }
+    100%{
+        
+        background-image: url(https://img.freepik.com/free-photo/modern-building-office-blue-sky-background_35761-198.jpg?size=626&ext=jpg);
+    }
+    
+}
+
+.jai4{
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.jai5{
+
+    float: left;
+    width: 94%;
+    margin: 2% 3% 3% 3%;
+    margin-top: 2%;
+    margin-right: 3%;
+    margin-bottom: 3%;
+    margin-left: 3%;
+    sss
+}
+.jai6{
+    width: 100%;
+    float: left;
+    color: chocolate;
+}
+.jai7{
+    width: 100%;
+    padding: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    float: left;
+    font-family: 'Assistant', sans-serif;
+    font-size: 16px;
+    text-align: justify;
+    line-height: 27px;
+
+}
+.jai10{
+    /* padding-left: 15px;*/
+    width: 50%;
+    float: left;
+   
+}
+.jai8{
+    display: block;
+    width: 100%;
+    float: left;
+    color: chocolate;
+    
+}
+.jai10{
+    
+    padding: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    float: left;
+    font-family: 'Assistant', sans-serif;
+    font-size: 16px;
+    text-align: justify;
+    line-height: 27px;
+}
+
+
+
+
+.jai4{
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.jai11{
+
+    float: left;
+    
+   /* margin: 2% 3% 3% 3%;
+    margin-top: 2%;
+    margin-right: 3%;
+    margin-bottom: 3%;
+    margin-left: 3%;*/
+
+}
+ 
+.jai12{
+    width: 44%;
+    float: left;
+}
+
+.jai12{
+    
+    padding: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    float: left;
+    font-family: 'Assistant', sans-serif;
+    font-size: 16px;
+    text-align: justify;
+    line-height: 27px;
+}
+
+
+.jai15{
+    width: 100%;
+    padding: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-size: 20px;
+    float: left;
+    font-family: 'Kite One', sans-serif;
+    display: block;
+    width: 100%;
+    float: left;
+    color: chocolate;
+}
+.jai16{
+    width: 100%;
+    padding: 5px;
+    margin: 0;
+    float: left;
+    font-family: 'Assistant', sans-serif;
+    font-size: 16px;
+    text-align: justify;
+    line-height: 27px;
+}
+
+.jai17{
+    width: 50%;
+    padding: 0px;
+    
+}
+
+.jai18{
+    width: 100%;
+    padding: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-size: 20px;
+    float: left;
+    font-family: 'Kite One', sans-serif;
+    display: block;
+    width: 100%;
+    float: left;
+    color: chocolate;
+
+}
+.jai19{
+    
+    padding: 8px;
+    margin: 0;
+    float: left;
+    font-family: 'Assistant', sans-serif;
+    font-size: 16px;
+    text-align: justify;
+    line-height: 27px;
+}
+.jai20{
+    margin-top: -35;
+}
+.jai14{
+    width: 50%;
+    float: left;
+}
+.jai17{
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*----------------------------------On forward space is only for GKContacts code----------------------------------------------*/
+
+
+
+
+
+.hind{
+    position: relative;
+    width: 100%;
+    float: left;
+    
+}
+.hind1{
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hind2{
+    background-size: cover;
+    background-image: url(https://freshome.com/wp-content/uploads/2013/05/design-home-plan-home.jpg);
+    
+    height: 600px;
+    
+}
+.hind3{
+    padding-top: 1px;
+    color: crimson;
+    font-weight: 40px;
+
+    
+}
+.hind4{
+    width: 750px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+}
+.hind5{
+    margin: 60px 0px;
+    margin-top: 60px;
+    margin-right: 0px;
+    margin-bottom: 60px;
+    margin-left: 0px;
+}
+p{
+    color: #4b4b4d;
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: 20px;
+    font-family: "averageregular";
+}
+.hind6{
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 60px;
+    margin-left: 0px;
+}
+.hind7{
+    width: 750px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.hind8{
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 60px;
+    margin-left: 0px;
+}
+.hind9{
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    float: left;
+    width: 100%;
+
+    
+}
+.hind10{
+    text-align: left;
+    margin-top: 0px;
+    margin: 40px 0px 24px 0px;
+    color: #cda969;
+    font-family: "fjallaoneregular";
+    font-size: 28px;
+   /* text-align: center;*/
+    letter-spacing: 2px;
+}
+.hind11{
+    width: 50%;
+    float: left;
+    
+}
+.hind12{
+    margin-bottom: 15px;
+    display: block;
+    box-sizing: border-box;
+    margin-right: 25px;
+}
+.hind13{
+
+    font-size: 16px;
+    letter-spacing: 2px;
+    border-radius: 0px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+
+    display: block;
+    width: 100%;
+    height: 36px;
+    padding: 6px 12px;
+    padding-top: 6px;
+    padding-right: 12px;
+    padding-bottom: 6px;
+    padding-left: 12px;
+    line-height: 1.6;
+    border: 1px solid #ccd0d2;
+    border-top-color: rgb(204, 208, 210);
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: rgb(204, 208, 210);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-color: rgb(204, 208, 210);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: rgb(204, 208, 210);
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    background-color: #fff;
+    
+}
+.hind14{
+    width: 50%;
+    float: left;
+    
+}
+.hind15{
+   
+   margin-bottom: 15px;
+   margin-left: 45px;
+}
+.hind16{
+
+    font-size: 16px;
+    letter-spacing: 2px;
+
+    display: block;
+    width: 100%;
+    height: 36px;
+    padding: 6px 12px;
+    padding-top: 6px;
+    padding-right: 12px;
+    padding-bottom: 6px;
+    padding-left: 12px;
+    line-height: 1.6;
+    border-radius: 4px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border: 1px solid #ccd0d2;
+    border-top-color: rgb(204, 208, 210);
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: rgb(204, 208, 210);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-color: rgb(204, 208, 210);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: rgb(204, 208, 210);
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    background-color: #fff;
+    
+}
+.hind17{
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.hind18{
+    width: 100%;
+}
+.hind19{
+    height: 70px;
+    font-size: 16px;
+    letter-spacing: 2px;
+
+    display: block;
+    width: 100%;
+    height: 36px;
+    padding: 6px 12px;
+    padding-top: 6px;
+    padding-right: 12px;
+    padding-bottom: 6px;
+    padding-left: 12px;
+    line-height: 1.6;
+    border-radius: 4px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border: 1px solid #ccd0d2;
+    border-top-color: rgb(204, 208, 210);
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: rgb(204, 208, 210);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-color: rgb(204, 208, 210);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: rgb(204, 208, 210);
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    background-color: #fff;
+}
+.hind19{
+    width: 100%;
+    margin-bottom: 15px;
+}
+.hind20{
+    width: 100%;
+    float: left;
+    display: block;
+    margin-top:65px;
+    margin-bottom: 20px;
+}
+.hind21{
+    background-color: #cda969;
+    padding: 6px 12px !important;
+    padding-top: 6px !important;
+    padding-right: 12px !important;
+    padding-bottom: 6px !important;
+    padding-left: 12px !important;
+    font-family: "averageregular";
+    letter-spacing: 2px;
+    font-size: 15px;
+}
+.hind22{
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.hind25{
+    argin: 40px 0px 24px 0px;
+    margin-top: 40px;
+    margin-right: 0px;
+    margin-bottom: 24px;
+    margin-left: 0px;
+    color: #cda969;
+    font-family: "fjallaoneregular";
+    font-size: 38px;
+    text-align: center;
+    letter-spacing: 2px;
+}
+    
+
+.hind23{
+    margin-left: -15px;
+    margin-right: -15px;
+    margin-top: 30px;
+}
+.hind26{
+    text-align: left;
+    color: #4b4b4d;
+    font-size: 25px;
+    margin-top: 10px;
+    font-family: "averageregular";
+    letter-spacing: 1px;
+}
+.hind27{
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.hind28{
+    margin-left: -55px;
+    margin-right: -55px;
+}
+.hind29{
+    width: 100%;
+    float: left;
+}
+.hind30{
+    background: transparent;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: transparent;
+    border: 1px solid #666667;
+    border-top-color: rgb(102, 102, 103);
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: rgb(102, 102, 103);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-color: rgb(102, 102, 103);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: rgb(102, 102, 103);
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    letter-spacing: 1px;
+    border-radius: 0px;
+    color: #fff;
+    width: 510px;
+    height: 20px;
+    margin-bottom: 5px;
+}
+.hind32{
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 5px;
+}
+.hind34{
+    
+    float: left;
+    width:50%;
+    margin-left: 0px;
+    margin-right: 0px;
+   
+    
+}
+.hind35{
+    width: 50%;
+    float: left;
+    
+    margin-right: -px;
+}
+.hind31{
+    background: transparent;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: transparent;
+    border: 1px solid #666667;
+    border-top-color: rgb(102, 102, 103);
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: rgb(102, 102, 103);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-color: rgb(102, 102, 103);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: rgb(102, 102, 103);
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    letter-spacing: 1px;
+    border-radius: 0px;
+    color: #fff;
+    width: 250px;
+    height: 20px;
+}
+.hind36{
+    box-sizing: border-box;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.hind37{
+    background-color: #bc954e;
+    border-radius: 0px;
+    letter-spacing: 1px;
+    color: #fff;
+    border-color: #bc954e;
+    outline: 0px;
+    padding: 4px 10px;
+    padding-top: 4px;
+    padding-right: 10px;
+    padding-bottom: 4px;
+    padding-left: 10px;
+    margin-right: 020px;
+}
+.hind41{
+    padding: 0px; 
+    padding-top: 0px;
+    padding-right: 0px !important;
+    padding-bottom: 0px ;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+}
+.hind43{
+    margin: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    color: #fff;
+    font-size: 16px;
+    font-family: "averageregular";
+    background-color: yellow;
+    height: 50px;
+}
+
+
+
+
+
+
+/*--------------------------------------------On forward space is only for GKAboutUs code-----------------------------------------------------*/
+
+.vihar{
+    width: 750px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+.vihar1{
+    margin: 60px 0px;
+    margin-top: 60px;
+    margin-right: 0px;
+    margin-bottom: 60px;
+    margin-left: 0px;
+}
+
+.vihar2{
+    margin: 40px 0px 24px 0px;
+    margin-top: 40px;
+    margin-right: 0px;
+    margin-bottom: 24px;
+    margin-left: 0px;
+    color: #cda969;
+    font-family: "fjallaoneregular";
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: 2px;
+}
+p{
+    color: #4b4b4d;
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: 18px;
+    font-family: "averageregular";
+    line-height: 30px;
+}
+
+.vihar3{
+    
+    margin-bottom: 60x;
+    padding-right: 100px;
+}
+.vihar4{
+
+    height: 678px;
+    overflow: hidden;
+    margin-top: 40px;
+    width: 1380px;
+    margin-left: -310px;
+    margin-right: -55px;
+}
+ul{
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px4
+    margin-left: 0px;
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+.vihar5{
+
+    display: table-cell;
+    vertical-align: bottom;
+    position: relative;
+    width: 100%;
+    margin-top: 60px;
+    height: 678px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    transition: all 500ms ease;
+    transition-property: all;
+    transition-duration: 500ms;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    background-size: cover;
+    
+    background-image:  url(https://image.shutterstock.com/image-photo/rear-view-businessman-standing-on-260nw-1253961535.jpg);
+}
+.vihar6{
+    background: rgba(207, 177, 124, 0.9);
+    position: absolute;
+    left: 178px;
+    width: 392px;
+    padding: 36px;
+    padding-top: 36px;
+    padding-right: 36px;
+    padding-bottom: 36px;
+    padding-left: 36px;
+    top: 118px;
+    bottom: auto;
+    right: 180px;
+    height: 350px;
+    margin-left: -155px;
+}
+.vihar7{
+    color: #fff;
+    font-size: 30px;
+    letter-spacing: 2px;
+    font-family: "fjallaoneregular";
+    margin-bottom: 24px;
+}
+
+.vihar8{
+
+    display: table-cell;
+    vertical-align: bottom;
+    position: relative;
+    width: 100%;
+    margin-top: 60px;
+    height: 678px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    transition: all 500ms ease;
+    transition-property: all;
+    transition-duration: 500ms;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    background-size: cover;
+    
+    background-image:  url(https://images.unsplash.com/photo-1506422748879-887454f9cdff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80);
+}
+.viahr9{
+    margin-bottom: 60px;
+    width: 700px;
+}
+.vihar11{
+    margin: 40px 0px 24px 0px;
+    margin-top: 40px;
+    margin-right: 0px;
+    margin-bottom: 24px;
+    margin-left: 0px;
+    color: #cda969;
+    font-family: "fjallaoneregular";
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: 2px;
+}
+.vihar10{
+    background-color: #bc954e;
+    padding: 54px 0px;
+    padding-top: 54px;
+    padding-right: 0px;
+    padding-bottom: 54px;
+    padding-left: 0px;
+    width: 1400px;
+    margin-left: -320px;
+}
+.vihar12{
+    width: 750px;
+    margin-right: 205px;
+    margin-left: 330px;
+}
+.vihar13{
+    margin-right: -15px;
+    margin-left: -15px;   
+}
+.vihar14{
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.vihar15{
+    text-align: center;
+}
+h5{
+    font-size: 19px;
+    font-family: "fjallaoneregular";
+    margin: 0px 0px 14px 0px;
+    color: #fff;
+    letter-spacing: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*<div class="container-fluid padding-zero">
+        <div class="hind6">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.320145263369!2d73.83083281489264!3d18.514429437412513!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf8f258dd7fd%3A0xada49ada7a9ce64d!2sRahul+Construction+Company!5e0!3m2!1sen!2sin!4v1527588296175" width="100%" height="400" frameborder="0" style="border:0;outline: 0px;" allowfullscreen></iframe>
+        </div>
+      </div>*/
