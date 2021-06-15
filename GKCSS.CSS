@@ -24,7 +24,7 @@ h1{
 #vishal{
     background-size: cover;
     background-image: url(https://freshome.com/wp-content/uploads/2013/05/design-home-plan-home.jpg);
-    animation: slide 5s infinite;
+    animation: slide 10s infinite;
     height: 700px;
     
 }
@@ -357,7 +357,7 @@ h3{
  #jai2{
     background-size: cover;
     background-image: url(https://www.thomasfarina.com/wp-content/uploads/2017/01/best-places-for-night-photography-in-New-York-City-09.jpg);
-    animation: ok 5s infinite;
+    animation: ok 8s infinite;
     height: 700px;
     
 }
@@ -449,7 +449,7 @@ h3{
 .jai2{
     background-size: cover;
     background-image: url(https://freshome.com/wp-content/uploads/2013/05/design-home-plan-home.jpg);
-    animation: slide2 5s infinite;
+    animation: slide2 7s infinite;
     height: 700px;
     
 }
